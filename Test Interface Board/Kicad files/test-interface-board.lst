@@ -1,0 +1,108 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 05/08/2013 16:48:09
+#Cmp ( order = Reference )
+| C1         0.1u        
+| C2         0.1u        
+| C3         0.1         
+| C4         0.1u        
+| C5         1u          
+| D1         TZS4690     
+| D2         TZS4690     
+| D3         TZS4686     
+| D4         TZS4686     
+| G1         CONN_1      
+| JP1        CONN_3      
+| JP2        VGA/DVI     
+| P1         PWR_LED/HDD_LED
+| P3         MOTHERBOARD SPI FLASH HEADER
+| P4         SPI DEBUG HEADER
+| P5         DIP-8 FLASH SOCKET
+| P6         DIP-16 FLASH SOCKET
+| P7         SPI FLASH PROGRAMMER
+| P8         PWR_BTN/RST_BTN
+| P9         D11-D13     
+| P10        AIN3-AIN5   
+| P11        POWER       
+| P12        D8-D13      
+| P13        ANALOG IN   
+| P14        D0-D7       
+| Q1         2N7002      
+| Q2         2N7002      
+| Q3         2N7002      
+| R1         10K         
+| R3         10K         
+| R4         10K         
+| R13        820         
+| R17        10K         
+| R18        10K         
+| R19        470         
+| R20        10K         
+| R21        470         
+| R22        470         
+| R23        10K         
+| RV1        10K         
+| U1         74LVC4066   
+| U2         TXB0104D    
+| U3         LM317L      
+| U4         74LVC1G157  
+| U5         MC100EPT21  
+| U6         TXB0101D    
+| U7         74VHC4040   
+| X1         VGAF        
+| X2         VGAF        
+| X3         DVI-I-R     
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1u         C1        
+| 0.1u         C2        
+| 0.1u         C4        
+| 1u           C5        
+| 0.1          C3        
+| TZS4690      D1        
+| TZS4690      D2        
+| TZS4686      D3        
+| TZS4686      D4        
+| CONN_1       G1        
+| CONN_3       JP1       
+| VGA/DVI      JP2       
+| PWR_LED/HDD_LED P1        
+| MOTHERBOARD SPI FLASH HEADER P3        
+| SPI DEBUG HEADER P4        
+| DIP-8 FLASH SOCKET P5        
+| DIP-16 FLASH SOCKET P6        
+| SPI FLASH PROGRAMMER P7        
+| PWR_BTN/RST_BTN P8        
+| AIN3-AIN5    P10       
+| POWER        P11       
+| D8-D13       P12       
+| ANALOG IN    P13       
+| D11-D13      P9        
+| D0-D7        P14       
+| 2N7002       Q1        
+| 2N7002       Q2        
+| 2N7002       Q3        
+| 470          R19       
+| 470          R21       
+| 470          R22       
+| 820          R13       
+| 10K          R1        
+| 10K          R3        
+| 10K          R4        
+| 10K          R17       
+| 10K          R18       
+| 10K          R20       
+| 10K          R23       
+| 10K          RV1       
+| 74LVC4066    U1        
+| LM317L       U3        
+| TXB0104D     U2        
+| 74LVC1G157   U4        
+| MC100EPT21   U5        
+| TXB0101D     U6        
+| 74VHC4040    U7        
+| DVI-I-R      X3        
+| VGAF         X1        
+| VGAF         X2        
+#End Cmp
+
+#End List

@@ -1,0 +1,153 @@
+PCBNEW-LibModule-V1  07/09/2013 01:57:49
+# encoding utf-8
+Units mm
+$INDEX
+EDAC 634-015-274-990 D-Sub High Density 15 pin Slim
+$EndINDEX
+$MODULE EDAC 634-015-274-990 D-Sub High Density 15 pin Slim
+Po 0 0 0 15 522A3A60 00000000 ~~
+Li EDAC 634-015-274-990 D-Sub High Density 15 pin Slim
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.2 7.6 1.524 1.524 0 0.3048 N I 21 N "EDAC 634-015-274-990 VGA SLIM"
+T1 20 0 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -15.4 2.6 15.4 2.6 0.381 21
+DS 15.4 2.6 15.4 -1.2 0.381 21
+DS 15.4 -1.2 -15.4 -1.2 0.381 21
+DS -15.4 -1.2 -15.4 2.6 0.381 21
+$PAD
+Sh "6" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.32 0
+$EndPAD
+$PAD
+Sh "11" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.56 1.5
+$EndPAD
+$PAD
+Sh "1" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.8 0
+$EndPAD
+$PAD
+Sh "7" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.04 1.5
+$EndPAD
+$PAD
+Sh "12" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.28 0
+$EndPAD
+$PAD
+Sh "2" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.52 1.5
+$EndPAD
+$PAD
+Sh "8" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.76 0
+$EndPAD
+$PAD
+Sh "13" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.5
+$EndPAD
+$PAD
+Sh "3" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.76 0
+$EndPAD
+$PAD
+Sh "9" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.52 1.5
+$EndPAD
+$PAD
+Sh "14" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.28 0
+$EndPAD
+$PAD
+Sh "4" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.04 1.5
+$EndPAD
+$PAD
+Sh "10" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.8 0
+$EndPAD
+$PAD
+Sh "15" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.56 1.5
+$EndPAD
+$PAD
+Sh "5" C 1 1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.32 0
+$EndPAD
+$PAD
+Sh "" C 1.93 1.93 0 0 0
+Dr 1.93 0 0
+At HOLE N 0000FFFF
+Ne 0 ""
+Po 9.51 0.51
+$EndPAD
+$PAD
+Sh "" C 1.93 1.93 0 0 0
+Dr 1.93 0 0
+At HOLE N 0000FFFF
+Ne 0 ""
+Po -9.51 0.51
+$EndPAD
+$PAD
+Sh "SH1" C 2.54 2.54 0 0 0
+Dr 1.93 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.365 3.81
+$EndPAD
+$PAD
+Sh "SH2" C 2.54 2.54 0 0 0
+Dr 1.93 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.365 3.81
+$EndPAD
+$EndMODULE EDAC 634-015-274-990 D-Sub High Density 15 pin Slim
+$EndLIBRARY

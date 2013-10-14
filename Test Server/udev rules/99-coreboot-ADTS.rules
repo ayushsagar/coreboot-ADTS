@@ -1,0 +1,18 @@
+# Template for udev rules for giving persistent symlinks to devices for the coreboot automated distributed test system (ADTS)
+# Please change the given values inside the quotation marks "" to the actual values. 
+# Lines may be deleted or added as per the no. of devices.
+
+# for test interface board
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="64935343633351E0B012", SYMLINK+="TIB0"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="A700A41351D0F1B14IXj", SYMLINK+="TIB1"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="FA41351D0F1B1TDIF46B", SYMLINK+="TIB2"
+
+# for USB powerstrip
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="A4132373935351D0F1B1", SYMLINK+="PS0"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="AA4A4132373937004IXj", SYMLINK+="PS1"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2431", ATTRS{idProduct}=="0043", ATTRS{serial}=="A413A41321B1FTDIF46B", SYMLINK+="PS2"
+
+# for flash programming devices
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6014", ATTRS{serial}=="FTWTBR7P", SYMLINK+="PROG0"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="A7004IXj", SYMLINK+="PROG1"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="FTDIF46B", SYMLINK+="PROG2"

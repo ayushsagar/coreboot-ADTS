@@ -1,0 +1,8 @@
+Written by Jason Vreeland [CodeRage]
+Released 3/7/2010 under GNU license
+
+The modbusSlave.cpp has been patched to correct for incorrect response when using the 
+Modbus function 0x01 read coil. As of 20th Sep 2013 this is different from the library available from
+the original source. Please use the library contained in this package to avoid issues.
+
+To use this library with Arduino IDE, put the 'MODBUS' folder inside 'arduino/libraries' folder

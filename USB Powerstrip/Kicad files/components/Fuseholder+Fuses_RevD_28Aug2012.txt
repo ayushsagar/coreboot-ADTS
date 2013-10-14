@@ -1,0 +1,30 @@
+# About
+Fuseholder+Fuses_RevD_28FAug2012.mod
+
+
+Contains the KiCAD module/footprint of some
+5x20mm, 6x30mm, TR5, TE5 and SMD1206 Fuses and Fuseholders.
+
+Fuse_SMD1206_HandSoldering_RevA_28Aug2012
+Fuse_SMD1206_Reflow_RevA_28Aug2012
+Fuse_SMD1206_Wave_RevA_28Aug2012
+Fuse_TE5_Littlefuse-395Series_RevA_28Aug2012
+Fuseholder5x20_Horizontal_closed_Bulgin_FX0457_RevA_Date28Aug2012
+Fuseholder5x20_horiz_SemiClosed_Casing10x25mm_RevA_Date25Jul2010
+Fuseholder5x20_horiz_open_inline_Type-I_RevC_Date24Feb2011
+Fuseholder5x20_horiz_open_lateral_Type-II_RevC_Date24Feb2011
+Fuseholder5x20_horiz_open_universal_Type-III_RevC_Date24Feb2011
+Fuseholder5x20_vert_closed_Bulgin_FX0456_RevB_Date05Jul2010
+Fuseholder6x32_Horiz_Open_Schurter0031-8002_RevB_Date05Jul2010
+Fuseholder_Fuse_TR5_Littlefuse-No560_No460_RevA_28Aug2012
+
+There is also a file Fuseholder+Fuses_RevD_28FAug2012.pdf which contains 
+a pdf preview of the footprints.
+
+For suggestions and improvements please contact me at
+bernd.wiebus@gmx.de
+
+
+Author: Bernd Wiebus / Uedem / Germany / 28 Aug 2012
+GNU-GPL, NO WARRANTY!
+

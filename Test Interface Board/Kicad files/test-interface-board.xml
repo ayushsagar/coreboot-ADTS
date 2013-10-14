@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:/Dropbox/GSoc/Test-board/kicad/test-interface-board.sch</source>
+    <date>09/08/2013 06:39:41</date>
+    <tool>eeschema (2013-07-14 BZR 4242)-testing</tool>
+  </design>
+  <components>
+    <comp ref="P3">
+      <value>MOTHERBOARD SPI FLASH HEADER</value>
+      <libsource lib="conn" part="CONN_4X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F7F185</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>DIP-8 FLASH SOCKET</value>
+      <libsource lib="conn" part="DIL8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F83737</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>DIP-16 FLASH SOCKET</value>
+      <libsource lib="conn" part="DIL16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F83746</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F83D14</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F83F70</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>SPI FLASH PROGRAMMER</value>
+      <libsource lib="conn" part="CONN_4X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51F91EFF</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>SPI DEBUG HEADER</value>
+      <libsource lib="conn" part="CONN_4X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FB0A0A</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>CONN_3</value>
+      <libsource lib="conn" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FB19A0</tstamp>
+    </comp>
+    <comp ref="P13">
+      <value>ANALOG IN</value>
+      <libsource lib="conn" part="CONN_6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF4261</tstamp>
+    </comp>
+    <comp ref="P12">
+      <value>D8-D13</value>
+      <libsource lib="conn" part="CONN_6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF4348</tstamp>
+    </comp>
+    <comp ref="P11">
+      <value>POWER</value>
+      <libsource lib="conn" part="CONN_5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF6322</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>AIN3-AIN5</value>
+      <libsource lib="conn" part="CONN_3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FFA8BB</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>PWR_BTN/RST_BTN</value>
+      <libsource lib="conn" part="CONN_2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52000228</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>VGAF</value>
+      <footprint>HD15_B-HD15F</footprint>
+      <libsource lib="test-interface-board-cache" part="VGAF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FE2ACE</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>VGAF</value>
+      <footprint>HD15_B-HD15F</footprint>
+      <libsource lib="test-interface-board-cache" part="VGAF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FE31D5</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>820R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FEBDCF</tstamp>
+    </comp>
+    <comp ref="X3">
+      <value>DVI-I-R</value>
+      <footprint>con-molex-DVI-I-R</footprint>
+      <libsource lib="test-interface-board-cache" part="DVI-I-R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52005A00</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>VGA/DVI</value>
+      <libsource lib="conn" part="CONN_3X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF16E5</tstamp>
+    </comp>
+    <comp ref="G1">
+      <value>CONN_1</value>
+      <libsource lib="conn" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5200A753</tstamp>
+    </comp>
+    <comp ref="P14">
+      <value>D0-D7</value>
+      <libsource lib="conn" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF4A9E</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>D11-D13</value>
+      <libsource lib="conn" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51FF549C</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>PC817</value>
+      <footprint>DIP4</footprint>
+      <libsource lib="opto" part="PC817"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52001A40</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>PC817</value>
+      <footprint>DIP4</footprint>
+      <libsource lib="opto" part="PC817"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>520026B1</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>PWR/RST LED</value>
+      <libsource lib="conn" part="CONN_4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52003466</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52003949</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52003956</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F73008</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>SOT23</footprint>
+      <libsource lib="test-interface-board-cache" part="2N7002"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F7E453</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F89034</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>TXB0104D</value>
+      <footprint>TSSOP-14</footprint>
+      <libsource lib="test-interface-board-cache" part="TXB0104D"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F8903A</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7002</value>
+      <footprint>SOT23</footprint>
+      <libsource lib="test-interface-board-cache" part="2N7002"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F89BA9</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F89BAF</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>LM317L</value>
+      <footprint>SO8</footprint>
+      <libsource lib="test-interface-board-cache" part="LM317L"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F8AC5B</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>470R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F91394</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>10K</value>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F913B2</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F914CC</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F91C09</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51F927A9</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51FB23AE</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51FB2A07</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74LVC4066</value>
+      <libsource lib="test-interface-board-cache" part="74LVC4066"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51FB637C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/SPI change-over switch/" tstamps="/51FB1CAB/"/>
+      <tstamp>51FF4150</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>470R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FB46CB</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>470R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FB4762</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>TZS4690</value>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FB4865</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>TZS4690</value>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FB4884</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>10K</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FD3CE3</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>TZS4686</value>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FD6609</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>TXB0101D</value>
+      <libsource lib="test-interface-board-cache" part="TXB0101D"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FE8B6B</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>MC100EPT21</value>
+      <libsource lib="test-interface-board-cache" part="MC100EPT21"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FE8D70</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>74LVC1G157</value>
+      <libsource lib="test-interface-board-cache" part="74LVC1G157"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FE90E5</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>74VHC4040</value>
+      <libsource lib="test-interface-board-cache" part="74VHC4040"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FF081F</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>TZS4686</value>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/video detector/" tstamps="/51FB422F/"/>
+      <tstamp>51FD65E3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_1">
+      <description>1 pin</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Condensateur non polarise</description>
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_5">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_3X2">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_4X2">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_4X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_6">
+      <description>ymbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_2">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_3">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">CONN_3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_4">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="DIL16">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_8">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="DIL8">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">DIL8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentionmetre</description>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistance</description>
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="ZENER">
+      <description>Diode zener</description>
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="opto" part="PC817">
+      <description>PC817, DIP4, DC Optocoupler, Vce 35V, CTR 50-300%</description>
+      <docs>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">PC817</field>
+        <field name="Footprint">DIP4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="2N7002">
+      <footprints>
+        <fp>SC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">SOT23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+        <pin num="4" name="S" type="passive"/>
+        <pin num="5" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="TXB0101D">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXB0101D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="BiDi"/>
+        <pin num="4" name="B" type="BiDi"/>
+        <pin num="5" name="OE" type="BiDi"/>
+        <pin num="6" name="VCCB" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="TXB0104D">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXB0104D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="power_in"/>
+        <pin num="2" name="A1" type="BiDi"/>
+        <pin num="3" name="A2" type="BiDi"/>
+        <pin num="4" name="A3" type="BiDi"/>
+        <pin num="5" name="A4" type="BiDi"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="OE" type="BiDi"/>
+        <pin num="10" name="B4" type="BiDi"/>
+        <pin num="11" name="B3" type="BiDi"/>
+        <pin num="12" name="B2" type="BiDi"/>
+        <pin num="13" name="B1" type="BiDi"/>
+        <pin num="14" name="VCCB" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="74LVC1G157">
+      <footprints>
+        <fp>SSOP*</fp>
+        <fp>VSSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC1G157</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="input"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="~A~/B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="74VHC4040">
+      <description>Binary Counter 12 stages (Asynchronous)</description>
+      <docs>cmos4000/MC14040.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74VHC4040</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q11" type="output"/>
+        <pin num="2" name="Q5" type="output"/>
+        <pin num="3" name="Q4" type="output"/>
+        <pin num="4" name="Q6" type="output"/>
+        <pin num="5" name="Q3" type="output"/>
+        <pin num="6" name="Q2" type="output"/>
+        <pin num="7" name="Q1" type="output"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Q0" type="output"/>
+        <pin num="10" name="CLK" type="input"/>
+        <pin num="11" name="Reset" type="input"/>
+        <pin num="12" name="Q8" type="output"/>
+        <pin num="13" name="Q7" type="output"/>
+        <pin num="14" name="Q9" type="output"/>
+        <pin num="15" name="Q10" type="output"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="DVI-I-R">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">DVI-I-R</field>
+        <field name="Footprint">con-molex-DVI-I-R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DATA2-" type="passive"/>
+        <pin num="2" name="DATA2+" type="passive"/>
+        <pin num="3" name="DATA2/4S" type="passive"/>
+        <pin num="4" name="DATA4-" type="passive"/>
+        <pin num="5" name="DATA4+" type="passive"/>
+        <pin num="6" name="DDCCLOCK" type="passive"/>
+        <pin num="7" name="DDCDATA" type="passive"/>
+        <pin num="8" name="AV-SYNC" type="passive"/>
+        <pin num="9" name="DATA1-" type="passive"/>
+        <pin num="10" name="DATA1+" type="passive"/>
+        <pin num="11" name="DATA1/3S" type="passive"/>
+        <pin num="12" name="DATA3-" type="passive"/>
+        <pin num="13" name="DATA3+" type="passive"/>
+        <pin num="14" name="+5V" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="HOT-PLUG" type="passive"/>
+        <pin num="17" name="DATA0-" type="passive"/>
+        <pin num="18" name="DATA0+" type="passive"/>
+        <pin num="19" name="DATA0/5S" type="passive"/>
+        <pin num="20" name="DATA5-" type="passive"/>
+        <pin num="21" name="DATA5+" type="passive"/>
+        <pin num="22" name="CLOCKS" type="passive"/>
+        <pin num="23" name="CLOCK+" type="passive"/>
+        <pin num="24" name="CLOCK-" type="passive"/>
+        <pin num="C1" name="RED" type="passive"/>
+        <pin num="C2" name="GREEN" type="passive"/>
+        <pin num="C3" name="BLUE" type="passive"/>
+        <pin num="C4" name="H-SYNC" type="passive"/>
+        <pin num="C5" name="A-GND" type="power_in"/>
+        <pin num="C6" name="A-GND@1" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="74LVC4066">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC4066</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O" type="passive"/>
+        <pin num="2" name="O/I" type="passive"/>
+        <pin num="3" name="O/I" type="passive"/>
+        <pin num="4" name="I/O" type="passive"/>
+        <pin num="5" name="ON" type="input"/>
+        <pin num="6" name="ON" type="input"/>
+        <pin num="7" name="V-" type="power_in"/>
+        <pin num="8" name="I/O" type="passive"/>
+        <pin num="9" name="O/I" type="passive"/>
+        <pin num="10" name="O/I" type="passive"/>
+        <pin num="11" name="I/O" type="passive"/>
+        <pin num="12" name="ON" type="input"/>
+        <pin num="13" name="ON" type="input"/>
+        <pin num="14" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="LM317L">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="OUT" type="power_out"/>
+        <pin num="3" name="OUT" type="input"/>
+        <pin num="4" name="ADJ" type="input"/>
+        <pin num="5" name="NC" type="NotConnected"/>
+        <pin num="6" name="OUT" type="power_in"/>
+        <pin num="7" name="OUT" type="power_in"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="MC100EPT21">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MC100EPT21</field>
+      </fields>
+      <pins>
+        <pin num="2" name="D" type="input"/>
+        <pin num="3" name="~D" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="7" name="Q" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="test-interface-board-cache" part="VGAF">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">VGAF</field>
+        <field name="Footprint">HD15_B-HD15F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="passive"/>
+        <pin num="2" name="P$2" type="passive"/>
+        <pin num="3" name="P$3" type="passive"/>
+        <pin num="4" name="P$4" type="passive"/>
+        <pin num="5" name="P$5" type="passive"/>
+        <pin num="6" name="P$6" type="passive"/>
+        <pin num="7" name="P$7" type="passive"/>
+        <pin num="8" name="P$8" type="passive"/>
+        <pin num="9" name="P$9" type="passive"/>
+        <pin num="10" name="P$10" type="passive"/>
+        <pin num="11" name="P$11" type="passive"/>
+        <pin num="12" name="P$12" type="passive"/>
+        <pin num="13" name="P$13" type="passive"/>
+        <pin num="14" name="P$14" type="passive"/>
+        <pin num="15" name="P$15" type="passive"/>
+        <pin num="SH1" name="SH1" type="power_in"/>
+        <pin num="SH2" name="SH2" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>C:\Program Files (x86)\KiCad\share\library\conn.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files (x86)\KiCad\share\library\device.lib</uri>
+    </library>
+    <library logical="opto">
+      <uri>C:\Program Files (x86)\KiCad\share\library\opto.lib</uri>
+    </library>
+    <library logical="test-interface-board-cache">
+      <uri>D:\Dropbox\GSoc\Test-board\kicad\test-interface-board-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/video detector/~SYNC~/CLK">
+      <node ref="P14" pin="4"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="2" name="">
+      <node ref="P12" pin="6"/>
+      <node ref="P9" pin="4"/>
+    </net>
+    <net code="3" name="">
+      <node ref="P12" pin="5"/>
+      <node ref="P9" pin="3"/>
+    </net>
+    <net code="4" name="">
+      <node ref="P12" pin="4"/>
+      <node ref="P9" pin="2"/>
+    </net>
+    <net code="5" name="">
+      <node ref="P10" pin="1"/>
+      <node ref="P13" pin="4"/>
+    </net>
+    <net code="6" name="/video detector/VSYNC/TMDS_CLK-DVI">
+      <node ref="P14" pin="5"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="7" name="/video detector/HSYNC">
+      <node ref="D2" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="P14" pin="6"/>
+    </net>
+    <net code="8" name="">
+      <node ref="X3" pin="16"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="9" name="/SPI change-over switch/ICP">
+      <node ref="JP1" pin="2"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="Q2" pin="5"/>
+    </net>
+    <net code="10" name="/SPI change-over switch/~CS_F">
+      <node ref="P6" pin="7"/>
+      <node ref="P5" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="11" name="/SPI change-over switch/CLK_F">
+      <node ref="P5" pin="6"/>
+      <node ref="U1" pin="9"/>
+      <node ref="P6" pin="16"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="12" name="/SPI change-over switch/MISO_F">
+      <node ref="P6" pin="8"/>
+      <node ref="P5" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="13" name="/SPI change-over switch/MOSI_F">
+      <node ref="U2" pin="2"/>
+      <node ref="P6" pin="15"/>
+      <node ref="U1" pin="2"/>
+      <node ref="P5" pin="5"/>
+    </net>
+    <net code="14" name="/SPI change-over switch/CLK_M">
+      <node ref="P4" pin="6"/>
+      <node ref="P3" pin="6"/>
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="15" name="/SPI change-over switch/MISO_M">
+      <node ref="P4" pin="3"/>
+      <node ref="U1" pin="4"/>
+      <node ref="P3" pin="3"/>
+    </net>
+    <net code="16" name="/SPI change-over switch/MOSI_M">
+      <node ref="U1" pin="1"/>
+      <node ref="P3" pin="8"/>
+      <node ref="P4" pin="8"/>
+    </net>
+    <net code="17" name="/ICP_INT">
+      <node ref="JP1" pin="3"/>
+      <node ref="P14" pin="3"/>
+    </net>
+    <net code="18" name="">
+      <node ref="X3" pin="12"/>
+    </net>
+    <net code="19" name="">
+      <node ref="X3" pin="2"/>
+    </net>
+    <net code="20" name="">
+      <node ref="X3" pin="3"/>
+    </net>
+    <net code="21" name="">
+      <node ref="X3" pin="4"/>
+    </net>
+    <net code="22" name="">
+      <node ref="X3" pin="5"/>
+    </net>
+    <net code="23" name="">
+      <node ref="X3" pin="6"/>
+    </net>
+    <net code="24" name="">
+      <node ref="X3" pin="7"/>
+    </net>
+    <net code="25" name="">
+      <node ref="X3" pin="9"/>
+    </net>
+    <net code="26" name="">
+      <node ref="X3" pin="10"/>
+    </net>
+    <net code="27" name="">
+      <node ref="X3" pin="11"/>
+    </net>
+    <net code="28" name="">
+      <node ref="X3" pin="1"/>
+    </net>
+    <net code="29" name="">
+      <node ref="X3" pin="13"/>
+    </net>
+    <net code="30" name="">
+      <node ref="X3" pin="17"/>
+    </net>
+    <net code="31" name="">
+      <node ref="X3" pin="18"/>
+    </net>
+    <net code="32" name="">
+      <node ref="X3" pin="19"/>
+    </net>
+    <net code="33" name="">
+      <node ref="X3" pin="20"/>
+    </net>
+    <net code="34" name="">
+      <node ref="X3" pin="21"/>
+    </net>
+    <net code="35" name="">
+      <node ref="X3" pin="C1"/>
+    </net>
+    <net code="36" name="">
+      <node ref="X3" pin="C2"/>
+    </net>
+    <net code="37" name="/DP8">
+      <node ref="JP2" pin="6"/>
+      <node ref="X3" pin="8"/>
+    </net>
+    <net code="38" name="/DPC4">
+      <node ref="X3" pin="C4"/>
+      <node ref="JP2" pin="5"/>
+    </net>
+    <net code="39" name="">
+      <node ref="X3" pin="C3"/>
+    </net>
+    <net code="40" name="/video detector/VGA_PIN13(HSYNC)">
+      <node ref="R21" pin="1"/>
+      <node ref="JP2" pin="3"/>
+    </net>
+    <net code="41" name="/video detector/VGA_PIN14(VSYNC)">
+      <node ref="R22" pin="1"/>
+      <node ref="JP2" pin="4"/>
+    </net>
+    <net code="42" name="/VP13">
+      <node ref="JP2" pin="1"/>
+      <node ref="X1" pin="13"/>
+      <node ref="X2" pin="13"/>
+    </net>
+    <net code="43" name="/VP14">
+      <node ref="X1" pin="14"/>
+      <node ref="JP2" pin="2"/>
+      <node ref="X2" pin="14"/>
+    </net>
+    <net code="44" name="/VP3">
+      <node ref="X2" pin="3"/>
+      <node ref="X1" pin="3"/>
+    </net>
+    <net code="45" name="/VP15">
+      <node ref="X1" pin="15"/>
+      <node ref="X2" pin="15"/>
+    </net>
+    <net code="46" name="/VP1">
+      <node ref="X2" pin="1"/>
+      <node ref="X1" pin="1"/>
+    </net>
+    <net code="47" name="/VP2">
+      <node ref="X1" pin="2"/>
+      <node ref="X2" pin="2"/>
+    </net>
+    <net code="48" name="/VP4">
+      <node ref="X2" pin="4"/>
+      <node ref="X1" pin="4"/>
+    </net>
+    <net code="49" name="">
+      <node ref="P14" pin="7"/>
+    </net>
+    <net code="50" name="">
+      <node ref="P14" pin="8"/>
+    </net>
+    <net code="51" name="">
+      <node ref="P9" pin="1"/>
+      <node ref="P12" pin="3"/>
+    </net>
+    <net code="52" name="/VP11">
+      <node ref="X1" pin="11"/>
+      <node ref="X2" pin="11"/>
+    </net>
+    <net code="53" name="/VP12">
+      <node ref="X1" pin="12"/>
+      <node ref="X2" pin="12"/>
+    </net>
+    <net code="54" name="">
+      <node ref="P1" pin="4"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="55" name="VCC">
+      <node ref="P5" pin="8"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="U3" pin="7"/>
+      <node ref="P13" pin="2"/>
+      <node ref="P13" pin="3"/>
+      <node ref="P3" pin="2"/>
+      <node ref="P6" pin="2"/>
+      <node ref="P3" pin="4"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R19" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U3" pin="3"/>
+      <node ref="P7" pin="2"/>
+      <node ref="P13" pin="1"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U2" pin="14"/>
+      <node ref="P4" pin="2"/>
+      <node ref="P4" pin="4"/>
+    </net>
+    <net code="56" name="/~RST_LED">
+      <node ref="P12" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="57" name="">
+      <node ref="IC1" pin="1"/>
+      <node ref="P1" pin="1"/>
+    </net>
+    <net code="58" name="">
+      <node ref="IC1" pin="2"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="59" name="">
+      <node ref="P1" pin="3"/>
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="60" name="+3.3V">
+      <node ref="P11" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="61" name="+5V">
+      <node ref="P11" pin="2"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U6" pin="6"/>
+      <node ref="R20" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U7" pin="16"/>
+    </net>
+    <net code="62" name="">
+      <node ref="R13" pin="1"/>
+      <node ref="X3" pin="14"/>
+    </net>
+    <net code="64" name="/~PWR_LED">
+      <node ref="P12" pin="1"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="65" name="/SPI change-over switch/CLK_P">
+      <node ref="U2" pin="11"/>
+      <node ref="P7" pin="6"/>
+    </net>
+    <net code="66" name="/SPI change-over switch/~CS_M">
+      <node ref="P4" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="P3" pin="1"/>
+    </net>
+    <net code="67" name="/SPI change-over switch/MOSI_P">
+      <node ref="U2" pin="13"/>
+      <node ref="P7" pin="8"/>
+    </net>
+    <net code="68" name="/~HOLD">
+      <node ref="P7" pin="4"/>
+      <node ref="R4" pin="2"/>
+      <node ref="P5" pin="7"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="69" name="/SPI change-over switch/MISO_P">
+      <node ref="P7" pin="3"/>
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="70" name="/SPI change-over switch/~CS_P">
+      <node ref="P7" pin="1"/>
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="71" name="/~WP">
+      <node ref="P6" pin="9"/>
+      <node ref="R3" pin="2"/>
+      <node ref="P5" pin="3"/>
+    </net>
+    <net code="72" name="/video detector/DVI_PIN24(TMDS_CLK-)">
+      <node ref="D3" pin="2"/>
+      <node ref="U5" pin="3"/>
+      <node ref="X3" pin="24"/>
+    </net>
+    <net code="73" name="GND">
+      <node ref="C3" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="Q2" pin="4"/>
+      <node ref="U2" pin="7"/>
+      <node ref="RV1" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U1" pin="7"/>
+      <node ref="C1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="G1" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U6" pin="2"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="U4" pin="2"/>
+      <node ref="D3" pin="1"/>
+      <node ref="U7" pin="11"/>
+      <node ref="U7" pin="8"/>
+      <node ref="X2" pin="10"/>
+      <node ref="X1" pin="5"/>
+      <node ref="X1" pin="10"/>
+      <node ref="P5" pin="4"/>
+      <node ref="P3" pin="7"/>
+      <node ref="P3" pin="5"/>
+      <node ref="P6" pin="10"/>
+      <node ref="X2" pin="5"/>
+      <node ref="P7" pin="7"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="X3" pin="C5"/>
+      <node ref="X3" pin="15"/>
+      <node ref="P11" pin="3"/>
+      <node ref="P11" pin="4"/>
+      <node ref="X3" pin="22"/>
+      <node ref="X2" pin="SH2"/>
+      <node ref="X2" pin="SH1"/>
+      <node ref="X1" pin="SH1"/>
+      <node ref="X1" pin="SH2"/>
+      <node ref="P4" pin="7"/>
+      <node ref="P4" pin="5"/>
+      <node ref="Q3" pin="2"/>
+    </net>
+    <net code="74" name="/video detector/DVI_PIN23(TMDS_CLK+)">
+      <node ref="U5" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="X3" pin="23"/>
+    </net>
+    <net code="75" name="">
+      <node ref="P10" pin="2"/>
+      <node ref="P13" pin="5"/>
+    </net>
+    <net code="76" name="">
+      <node ref="P10" pin="3"/>
+      <node ref="P13" pin="6"/>
+    </net>
+    <net code="77" name="">
+      <node ref="P6" pin="3"/>
+    </net>
+    <net code="78" name="">
+      <node ref="P6" pin="4"/>
+    </net>
+    <net code="79" name="">
+      <node ref="P6" pin="5"/>
+    </net>
+    <net code="80" name="">
+      <node ref="P6" pin="6"/>
+    </net>
+    <net code="81" name="">
+      <node ref="P6" pin="11"/>
+    </net>
+    <net code="82" name="">
+      <node ref="P6" pin="12"/>
+    </net>
+    <net code="83" name="">
+      <node ref="P6" pin="13"/>
+    </net>
+    <net code="84" name="">
+      <node ref="P6" pin="14"/>
+    </net>
+    <net code="85" name="/VP9">
+      <node ref="X1" pin="9"/>
+      <node ref="X2" pin="9"/>
+    </net>
+    <net code="86" name="/VP8">
+      <node ref="X1" pin="8"/>
+      <node ref="X2" pin="8"/>
+    </net>
+    <net code="87" name="/VP7">
+      <node ref="X1" pin="7"/>
+      <node ref="X2" pin="7"/>
+    </net>
+    <net code="88" name="/VP6">
+      <node ref="X2" pin="6"/>
+      <node ref="X1" pin="6"/>
+    </net>
+    <net code="89" name="/ICP/IO3">
+      <node ref="P7" pin="5"/>
+      <node ref="JP1" pin="1"/>
+    </net>
+    <net code="90" name="">
+      <node ref="P11" pin="5"/>
+    </net>
+    <net code="91" name="/PWR_BTN">
+      <node ref="P14" pin="2"/>
+      <node ref="P8" pin="1"/>
+    </net>
+    <net code="92" name="/RST_BTN">
+      <node ref="P8" pin="2"/>
+      <node ref="P14" pin="1"/>
+    </net>
+    <net code="93" name="/SPI change-over switch/~ICP">
+      <node ref="Q3" pin="3"/>
+      <node ref="R20" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="94" name="">
+      <node ref="R17" pin="2"/>
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="95" name="">
+      <node ref="RV1" pin="1"/>
+    </net>
+    <net code="96" name="">
+      <node ref="U3" pin="4"/>
+      <node ref="RV1" pin="3"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="97" name="">
+      <node ref="U1" pin="6"/>
+      <node ref="R18" pin="2"/>
+      <node ref="U1" pin="12"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="98" name="">
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="99" name="">
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="106" name="">
+      <node ref="U6" pin="3"/>
+      <node ref="U5" pin="7"/>
+    </net>
+    <net code="107" name="">
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="108" name="">
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="109" name="">
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="110" name="">
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="111" name="">
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="112" name="">
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="113" name="">
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="114" name="">
+      <node ref="U6" pin="4"/>
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="115" name="">
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="116" name="">
+      <node ref="U7" pin="13"/>
+    </net>
+    <net code="117" name="">
+      <node ref="U7" pin="14"/>
+    </net>
+    <net code="118" name="">
+      <node ref="U7" pin="15"/>
+    </net>
+    <net code="119" name="">
+      <node ref="U7" pin="1"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="120" name="">
+      <node ref="U4" pin="3"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R22" pin="2"/>
+    </net>
+    <net code="121" name="">
+      <node ref="R23" pin="2"/>
+      <node ref="U6" pin="5"/>
+    </net>
+  </nets>
+</export>
